@@ -37,4 +37,9 @@
 \contentsline {section}{Riemann Sums}{33}{section*.30}
 \contentsline {section}{Riemann Sums}{34}{section*.31}
 \contentsline {section}{Riemann Sums}{35}{section*.32}
+\contentsline {part}{VIII\hspace {1em}Indefinite Integrals}{36}{part.8}
+\contentsline {section}{Indefinite Integrals}{36}{section*.33}
+\contentsline {section}{Riemann Sums}{37}{section*.34}
+\contentsline {section}{Riemann Sums}{38}{section*.35}
+\contentsline {section}{Riemann Sums}{39}{section*.36}
 \contentsfinish 
