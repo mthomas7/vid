@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1492804589 "stop8.tex" "stop8.pdf" "stop8" 1492804590
+["pdflatex"] 1492804791 "stop8.tex" "stop8.pdf" "stop8" 1492804793
   "/etc/texmf/web2c/texmf.cnf" 1451280570 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/projects/8dbbe682-76f9-489e-aa8f-8e922e0ee813/texmf/tex/latex/ximeraLatex/ximera.cls" 1486223248 33516 36e6e71593a2177f3afb84dac0aa5241 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -198,13 +198,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1451282845 1779312 b2f993ff39f888114b7dddf8751f0ae0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1451283024 3844897 a48480b7055b5bf2233b6b76c1d43730 ""
   "preamble.tex" 1471820317 20 766f35f6a00027a9de798d72baebb703 ""
-  "stop8.aux" 1492804590 783 5af5b5c51ffa073aeb8d76e34c81356f ""
-  "stop8.out" 1492804590 48 bc61a83e55ff6fb10690a6c6bcdc63bd ""
-  "stop8.tex" 1492804557 200 91023d995b7606c36ad83a4e98ceead1 ""
+  "stop8.aux" 1492804793 791 62fd1caab65445cf843f29a867566a08 ""
+  "stop8.out" 1492804793 56 2a84208f49a731cc0f4e37ac568b67b2 ""
+  "stop8.tex" 1492804705 216 4283eb0181fb7d74fa48a267be8421fb ""
   (generated)
   "stop8.jax"
-  "stop8.log"
-  "stop8.aux"
-  "stop8.oc"
   "stop8.pdf"
+  "stop8.aux"
   "stop8.out"
+  "stop8.oc"
+  "stop8.log"
